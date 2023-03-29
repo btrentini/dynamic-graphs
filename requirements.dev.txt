@@ -1,0 +1,9 @@
+torch
+torch_geometric
+gym
+rdkit
+rdkit-pypi
+numpy
+stable_baselines3
+deepchem
+wandb
